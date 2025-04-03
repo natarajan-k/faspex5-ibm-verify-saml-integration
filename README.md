@@ -92,7 +92,7 @@ Click on the 3 dots of the SAML entry that we just created. Click on Metadata. C
 3. Click Save.    
 4. Thats it. Now, from a private browser, open faspex URL and it should give you the option to login using IBM Verify. Click on it. Once the IBM Verify page opens, pick IBMid to login.   
 
-<p float="left">
-  <img src="./images/image7.jpg" width="400" />
-  <img src="./images/image8.jpg" width="580" height="680" />
-</p>
+![](./images/image7.jpg)
+![](./images/image8.jpg)
+
+
